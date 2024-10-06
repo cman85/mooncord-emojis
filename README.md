@@ -1,6 +1,6 @@
 # Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
-Download: https://github.com/TheLouisHong/custom-emoji-repository/releases/download/1.0/emojis.zip
+Download: https://github.com/TheLouisHong/custom-emoji-repository/archive/refs/heads/main.zip
 
 ![trolldespair](https://github.com/user-attachments/assets/d093c027-23a8-4339-a4c2-824951d35fc1)
 ![thonk](https://github.com/user-attachments/assets/fa282d9d-5cc5-4558-a272-bb07fa750b08)
