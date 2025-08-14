@@ -8,7 +8,7 @@
 5. Delete everything in that folder
 6. run `git clone https://github.com/cman85/mooncord-emojis.git .`
 
-** NOTE: It is expected that you will see "Custom Emoji: There were __ errors loading emojis and soundojis" and similar text on client start.**
+**NOTE: It is expected that you will see "Custom Emoji: There were __ errors loading emojis and soundojis" and similar text on client start.**
 The plugin is a bit naive and complains that there's .git files in the folder. The plugin will work fine despite the error log.
 
 ## Updating your Mooncord emojis
