@@ -17,8 +17,25 @@ Navigate to your !emojifolder and run `git pull`. This should update you to the 
 ## Creating Mooncord emojis
 See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
 
-Create a PR for this repo to add your emoji and I'll merge it
+Add the emoji to your !emojifolder
 
+In your terminal in your !emojifolder, run the following commands:
+
+`git checkout -b <emoji_name>` e.g. `git checkout -b glorp`
+
+`git add .`
+
+`git commit -m "<emoji_name>"` e.h. `git commit -m "glorp"`
+
+`git push --set-upstream origin <emoji_name>` e.g. `git push --set-upstream origin glorp`
+
+This should create a branch in this repository with your changes. You probably will be prompted to enter your email/a github login, just follow the prompts as given.
+
+Once a branch is created, follow these instructions for opening a PR: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request 
+
+The base branch is `main`
+
+Then I'll merge that PR for you.
 
 ## If you just want non-mooncord emojis without git
 This is from the non-mooncord version of this repo, you can ignore it if you've done the above
