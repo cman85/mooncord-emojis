@@ -1,5 +1,13 @@
-# Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
+# Mooncord Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
+## Using Mooncord emojis
+Install the Custom Emoji plugin
+Install git https://github.com/git-guides/install-git
+Type !emojifolder in your client to open the emoji folder
+Navigate to that folder via your terminal
+
+
+## Creating Mooncord emojis
 See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
 
 Create a PR for this repo to add your emoji and I'll merge it
