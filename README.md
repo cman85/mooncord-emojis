@@ -6,8 +6,10 @@ Install git https://github.com/git-guides/install-git
 Type !emojifolder in your client to open the emoji folder
 Navigate to that folder via your terminal
 Delete everything in that folder
-run `git clone https://github.com/user/my-repository.git . && rm `
+run `git clone https://github.com/user/my-repository.git .` then delete README.md ( `rm README.md` )
 
+## Updating your Mooncord emojis
+Navigate to your !emojifolder and run `git pull`. This should update you to the latest set of emojis. You then have to restart your client to have that applied.
 
 ## Creating Mooncord emojis
 See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
