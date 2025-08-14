@@ -1,18 +1,24 @@
 # Mooncord Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
 ## Using Mooncord emojis
-Install the Custom Emoji plugin
-Install git https://github.com/git-guides/install-git
-Type !emojifolder in your client to open the emoji folder
-Navigate to that folder via your terminal
-Delete everything in that folder
-run `git clone https://github.com/user/my-repository.git . && rm `
+1. Install the Custom Emoji plugin
+2. Install git https://github.com/git-guides/install-git
+3. Type !emojifolder in your client to open the emoji folder
+4. Navigate to that folder via your terminal
+5. Delete everything in that folder
+6. run `git clone https://github.com/cman85/mooncord-emojis.git .`
 
+## Updating your Mooncord emojis
+Navigate to your !emojifolder and run `git pull`. This should update you to the latest set of emojis. You then have to restart your client to have that applied.
 
 ## Creating Mooncord emojis
 See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
 
 Create a PR for this repo to add your emoji and I'll merge it
+
+
+## If you just want non-mooncord emojis without git
+This is from the non-mooncord version of this repo, you can ignore it if you've done the above
 
 Download: https://github.com/TheLouisHong/custom-emoji-repository/archive/refs/heads/main.zip
 
