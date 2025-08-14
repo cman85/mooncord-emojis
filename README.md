@@ -25,7 +25,7 @@ In your terminal in your !emojifolder, run the following commands:
 
 `git add .`
 
-`git commit -m "<emoji_name>"` e.h. `git commit -m "glorp"`
+`git commit -m "<emoji_name>"` e.g. `git commit -m "glorp"`
 
 `git push --set-upstream origin <emoji_name>` e.g. `git push --set-upstream origin glorp`
 
