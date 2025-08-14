@@ -37,6 +37,8 @@ The base branch is `main`
 
 Then I'll merge that PR for you.
 
+Don't forget to switch back to the `main` branch when you're done so you can continue to receive the latest emojis - `git checkout main`
+
 ## If you just want non-mooncord emojis without git
 This is from the non-mooncord version of this repo, you can ignore it if you've done the above
 
