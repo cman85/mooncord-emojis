@@ -6,7 +6,7 @@
 3. Type !emojifolder in your client to open the emoji folder
 4. Navigate to that folder via your terminal
 5. Delete everything in that folder
-6. run `git clone https://github.com/user/my-repository.git .` then delete README.md ( `rm README.md` )
+6. run `git clone https://github.com/user/my-repository.git .`
 
 ## Updating your Mooncord emojis
 Navigate to your !emojifolder and run `git pull`. This should update you to the latest set of emojis. You then have to restart your client to have that applied.
