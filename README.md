@@ -1,5 +1,9 @@
 # Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
+See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
+
+Create a PR for this repo to add your emoji and I'll merge it
+
 Download: https://github.com/TheLouisHong/custom-emoji-repository/archive/refs/heads/main.zip
 
 ![trolldespair](https://github.com/user-attachments/assets/d093c027-23a8-4339-a4c2-824951d35fc1)
