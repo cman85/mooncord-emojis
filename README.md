@@ -16,6 +16,10 @@ See here for instructions on how to create a valid emoji https://runelite.net/pl
 
 Create a PR for this repo to add your emoji and I'll merge it
 
+
+## If you just want non-mooncord emojis without git
+This is from the non-mooncord version of this repo, you can ignore it if you've done the above
+
 Download: https://github.com/TheLouisHong/custom-emoji-repository/archive/refs/heads/main.zip
 
 ![trolldespair](https://github.com/user-attachments/assets/d093c027-23a8-4339-a4c2-824951d35fc1)
