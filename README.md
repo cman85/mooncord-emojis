@@ -1,6 +1,10 @@
 # Mooncord Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
 ## Using Mooncord emojis
+Naive way: click download zip on this repo and paste it into your !emojifolder: <img width="1029" height="498" alt="image" src="https://github.com/user-attachments/assets/3ef2b596-953c-4687-8401-ead044ce1add" />
+This will requre you to re-download it every time you want to update your emoji pack
+
+Cool way:
 1. Install the Custom Emoji plugin
 2. Install git https://github.com/git-guides/install-git
 3. Type !emojifolder in your client to open the emoji folder
