@@ -8,7 +8,8 @@ Cool way:
 1. Install the Custom Emoji plugin
 2. Install git https://github.com/git-guides/install-git
 3. Type !emojifolder in your client to open the emoji folder
-4. Navigate to that folder via your terminal
+4. Navigate to that folder via your terminal <img width="782" height="193" alt="image" src="https://github.com/user-attachments/assets/4a28fcd5-6ffc-4be7-a444-0d1ded0235f4" />
+
 5. Delete everything in that folder
 6. In your terminal run `git clone https://github.com/cman85/mooncord-emojis.git .` in the !emojifolder
 
