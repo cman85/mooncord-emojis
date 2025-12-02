@@ -1,30 +1,30 @@
 # Mooncord Emojis for [Custom Emoji](https://github.com/TheLouisHong/runelite-custom-emoji) plugin on RuneLite.
 
 ## Using Mooncord emojis
-Naive way: click download zip on this repo and paste it into your !emojifolder: <img width="1029" height="498" alt="image" src="https://github.com/user-attachments/assets/3ef2b596-953c-4687-8401-ead044ce1add" />
+Naive way: click download zip on this repo and paste it into your ::emojifolder: <img width="1029" height="498" alt="image" src="https://github.com/user-attachments/assets/3ef2b596-953c-4687-8401-ead044ce1add" />
 This will requre you to re-download it every time you want to update your emoji pack
 
 Cool way:
 1. Install the Custom Emoji plugin
 2. Install git https://github.com/git-guides/install-git
-3. Type !emojifolder in your client to open the emoji folder
+3. Type ::emojifolder in your client to open the emoji folder
 4. Navigate to that folder via your terminal <img width="782" height="193" alt="image" src="https://github.com/user-attachments/assets/4a28fcd5-6ffc-4be7-a444-0d1ded0235f4" />
 
 5. Delete everything in that folder
-6. In your terminal run `git clone https://github.com/cman85/mooncord-emojis.git .` in the !emojifolder
+6. In your terminal run `git clone https://github.com/cman85/mooncord-emojis.git .` in the ::emojifolder
 
 **NOTE: It is expected that you will see "Custom Emoji: There were __ errors loading emojis and soundojis" and similar text on client start.**
 The plugin is a bit naive and complains that there's .git files in the folder. The plugin will work fine despite the error log.
 
 ## Updating your Mooncord emojis
-Navigate to your !emojifolder and run `git pull`. This should update you to the latest set of emojis. You then have to restart your client to have that applied.
+Navigate to your ::emojifolder and run `git pull`. This should update you to the latest set of emojis. You then have to restart your client to have that applied.
 
 ## Creating Mooncord emojis
 See here for instructions on how to create a valid emoji https://runelite.net/plugin-hub/show/custom-emoji
 
-Add the emoji to your !emojifolder
+Add the emoji to your ::emojifolder
 
-In your terminal in your !emojifolder, run the following commands:
+In your terminal in your ::emojifolder, run the following commands:
 
 `git checkout -b <emoji_name>` e.g. `git checkout -b glorp`
 
